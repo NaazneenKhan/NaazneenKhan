@@ -7,8 +7,6 @@
     <img src="assets/wave.gif" width="50" alt="wave">
   </h1>
 
-<img src="https://dummyimage.com/4000x4/088F96/088F96.png" alt="divider" width="100%">
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=500&color=088F96&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG">
 
 </div>
