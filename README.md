@@ -11,13 +11,13 @@
 
 </div>
 
-<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%" style="display:block;margin:0">
-<img src="https://dummyimage.com/4000x4/088F96/088F96.png" alt="divider" width="100%" style="display:block;margin:0">
+<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%">
+<img src="https://dummyimage.com/4000x4/088F96/088F96.png" alt="divider" width="100%">
 
 <!-- About Me -->
 <div align="center">
 
-  <h2 style="color:#9739DC;">About Me</h2>
+  <h2>About Me</h2>
 
   <img align="right" src="assets/about-me.gif" width="220" alt="working gif">
 
@@ -37,7 +37,7 @@
 <!-- Skills -->
 <div align="center">
 
-  <h2 style="color:#9739DC;">Skills</h2>
+  <h2>Skills</h2>
 
 **Languages & Frameworks**  
  <img src="https://img.shields.io/badge/C++-0A6721?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp;
@@ -67,13 +67,13 @@
 
 </div>
 
-<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%" style="display:block;margin:0">
-<img src="https://dummyimage.com/4000x4/088F96/088F96.png" alt="divider" width="100%" style="display:block;margin:0">
+<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%">
+<img src="https://dummyimage.com/4000x4/088F96/088F96.png" alt="divider" width="100%">
 
 <!-- GitHub Stats -->
 <div align="center">
 
-  <h2 style="color:#9739DC;">GitHub Stats</h2>
+  <h2 >GitHub Stats</h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=NaazneenKhan&theme=radical&show_icons=true" height="165" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaazneenKhan&theme=radical" height="165" />  
@@ -87,7 +87,7 @@
 <!-- Contact -->
 <div align="center">
 
-  <h2 style="color:#9739DC;">Connect</h2>
+  <h2 style="color:white;">Connect</h2>
 
   <a href="mailto:naazneen.k@icloud.com">
     <img src="https://img.shields.io/badge/iCloud%20Mail-088F96?style=for-the-badge&logo=icloud&logoColor=white&labelColor=3D235F" />
@@ -104,5 +104,5 @@
 
 </div>
 
-<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%" style="display:block;margin:0">
-<img src="https://dummyimage.com/4000x4/088F96/088F96.png" alt="divider" width="100%" style="display:block;margin:0">
+<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%">
+<img src="https://dummyimage.com/4000x4/088F96/088F96.png" alt="divider" width="100%">
