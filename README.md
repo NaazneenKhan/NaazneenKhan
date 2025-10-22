@@ -2,12 +2,11 @@
 <div align="center">
 
   <h1 style="color:#9739DC; font-size:2.8em;">
-    ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀❜𝕞 
-    <a href="https://github.com/NaazneenKhan" style="color:white; text-decoration:none;">ℕ𝕒𝕒𝕫𝕟𝕖𝕖𝕟 𝕂𝕙𝕒𝕟❕</a>
+    ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀❜𝕞 ℕ𝕒𝕒𝕫𝕟𝕖𝕖𝕟 𝕂𝕙𝕒𝕟❕
     <img src="assets/wave.gif" width="50" alt="wave">
   </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=500&color=088F96&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=500&color=088F96&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Aspiring+Software+Engineer;Problem+Solver" alt="Typing SVG">
 
 </div>
 
