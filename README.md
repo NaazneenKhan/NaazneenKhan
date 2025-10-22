@@ -26,8 +26,10 @@
  🌱 Skilled in Full-Stack Development from frontend design to backend systems and databases.  
  🚀 I thrive in collaborative environments and enjoy learning new technologies.
 
-🧩 **Interests & Passions:**  
- `AI` • `Web Apps` • `Data-Driven Solutions` • `Creative Design` • `Tech Innovation`
+```
+🧩 Interests & Passions:
+ AI • Web Apps • Data-Driven Solutions • Creative Design • Tech Innovation
+```
 
 </div>
 
@@ -73,7 +75,7 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-  <h2 >GitHub Stats</h2>
+  <h2>GitHub Stats</h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=NaazneenKhan&theme=radical&show_icons=true" height="165" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaazneenKhan&theme=radical" height="165" />  
@@ -87,7 +89,7 @@
 <!-- Contact -->
 <div align="center">
 
-  <h2 style="color:white;">Connect</h2>
+  <h2>Connect</h2>
 
   <a href="mailto:naazneen.k@icloud.com">
     <img src="https://img.shields.io/badge/iCloud%20Mail-088F96?style=for-the-badge&logo=icloud&logoColor=white&labelColor=3D235F" />
