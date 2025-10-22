@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="https://dummyimage.com/900x4/9739DC/9739DC.png" alt="divider" width="100%">
+<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%">
 
 <!-- About Me -->
 <div align="center">
@@ -30,7 +30,7 @@
 
 </div>
 
-<img src="https://dummyimage.com/900x4/9739DC/9739DC.png" alt="divider" width="100%">
+<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%">
 
 <!-- Skills -->
 <div align="center">
@@ -65,7 +65,7 @@
 
 </div>
 
-<img src="https://dummyimage.com/900x4/9739DC/9739DC.png" alt="divider" width="100%">
+<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%">
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -78,7 +78,7 @@
 
 </div>
 
-<img src="https://dummyimage.com/900x4/9739DC/9739DC.png" alt="divider" width="100%">
+<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%">
 
 <!-- Contact -->
 <div align="center">
@@ -99,3 +99,5 @@
   </a>
 
 </div>
+
+<img src="https://dummyimage.com/2500x4/9739DC/9739DC.png" alt="divider" width="100%">
