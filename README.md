@@ -20,7 +20,7 @@
 
   <img align="right" src="assets/about-me.gif" width="220" alt="working gif">
 
-🎓 Final-year Computer Science student at the University of Pretoria.  
+🎓  Computer Science Graduate at the University of Pretoria.  
  💡 Passionate about building modern, scalable applications and exploring creative solutions.  
  🌱 Skilled in Full-Stack Development from frontend design to backend systems and databases.  
  🚀 I thrive in collaborative environments and enjoy learning new technologies.
