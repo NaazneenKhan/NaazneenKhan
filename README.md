@@ -46,8 +46,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F02267?style=for-the-badge&logo=javascript&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-9739DC?style=for-the-badge&logo=python&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/HTML%20%26%20CSS-088F96?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/ReactJS-9739DC?style=for-the-badge&logo=react&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/NodeJS-088F96?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/ReactJS-F02267?style=for-the-badge&logo=react&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/NodeJS-9739DC?style=for-the-badge&logo=node.js&logoColor=white">
 
 <br><br>
 
