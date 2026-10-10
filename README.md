@@ -89,18 +89,14 @@
 
   <h2>Connect</h2>
 
-  <a href="mailto:naazneen.k@icloud.com">
-    <img src="https://img.shields.io/badge/iCloud%20Mail-088F96?style=for-the-badge&logo=icloud&logoColor=white&labelColor=3D235F" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/naazneen-khan-6731a6222/">
     <img src="https://img.shields.io/badge/LinkedIn-9739DC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A6721" />
   </a>
   <a href="https://github.com/NaazneenKhan">
     <img src="https://img.shields.io/badge/GitHub-3D235F?style=for-the-badge&logo=github&logoColor=white&labelColor=F02267" />
   </a>
-  <a href="assets/Naazneen%20Khan%20CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-F02267?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=088F96" />
-  </a>
+  
 
 </div>
 
